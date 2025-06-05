@@ -9,3 +9,5 @@
     - zobrazit kontakty
     - přidat kontakty
     (- odstranění kontakty)
+
+NOVÁ NA SERVERU
