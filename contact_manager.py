@@ -3,11 +3,6 @@ contacts = [
         "name": "Anička",
         "email": "anicka@email.com",
         "phone": "777 777 777"
-    },
-    {
-        "name": "Nikol",
-        "email": "nikol@email.com",
-        "phone": "777 777 777"
     }
 ]
 
